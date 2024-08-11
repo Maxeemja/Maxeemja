@@ -1,5 +1,8 @@
 ## Hi there 👋
+# I am full-stack developer from Kyiv, Ukraine
 
+My stack is HTML,CSS, core JS, TS, React (with most compatible add-ons), Next.js and Angular from frontend side
+NodeJS, Express.js, Nest.js, MongoDB, PostgreSQL etc from backend. Also I possess knowledge of algorithms, practicing clean code and love to be a part of cool team
 <!--
 **Maxeemja/Maxeemja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
